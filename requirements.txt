@@ -1,0 +1,9 @@
+fastapi==0.100.1
+sqlalchemy==2.0.19
+uvicorn==0.23.2
+loguru==0.7.0
+pydantic==1.10.7
+pandas==2.0.3
+catboost==1.2
+python-dotenv==1.0.0
+psycopg2-binary==2.9.6
